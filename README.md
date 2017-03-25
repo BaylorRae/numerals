@@ -1,5 +1,7 @@
 # Numerals
 
+[![Build Status](https://travis-ci.org/BaylorRae/numerals.svg?branch=master)](https://travis-ci.org/BaylorRae/numerals)
+
 This is a project built with [webpack] and [react].
 
 ## Usage
