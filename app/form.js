@@ -3,7 +3,11 @@ import React, { Component } from 'react';
 export default class Form extends Component {
   render() {
     return (
-      <input type="number" value={this.props.number} onChange={e => this.props.onChange(+e.target.value)} />
+      <input className="numeral-converter--field"
+             type="number"
+             value={this.props.number}
+             onChange={e => this.props.onChange(+e.target.value)}
+             max="3999" />
     );
   }
 }
