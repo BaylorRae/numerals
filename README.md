@@ -1,6 +1,6 @@
 # Numerals
 
-[![Build Status](https://travis-ci.org/BaylorRae/numerals.svg?branch=master)](https://travis-ci.org/BaylorRae/numerals)
+[![Build Status](https://travis-ci.org/BaylorRae/numerals.svg?branch=master)](https://travis-ci.org/BaylorRae/numerals) [![Code Climate](https://codeclimate.com/github/BaylorRae/numerals/badges/gpa.svg)](https://codeclimate.com/github/BaylorRae/numerals) [![Test Coverage](https://codeclimate.com/github/BaylorRae/numerals/badges/coverage.svg)](https://codeclimate.com/github/BaylorRae/numerals/coverage)
 
 This is a project built with [webpack] and [react].
 
